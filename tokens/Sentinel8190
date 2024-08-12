@@ -1,0 +1,15 @@
+{
+  "id": 8190,
+  "type": "Mars",
+  "name": "Sentinel8190",
+  "description": "",
+  "image": "https://immutable.github.io/sample-project-metadata/tokens/Sentinel8190.webp",
+  "external_link": "",
+  "attributes": [],
+  "stats": {
+    "health": 100,
+    "strength": 100,
+    "defence": 100,
+    "vitality": 100
+  }
+}

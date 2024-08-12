@@ -1,0 +1,15 @@
+{
+  "id": 3880,
+  "type": "Neptune",
+  "name": "Sentinel3880",
+  "description": "",
+  "image": "https://immutable.github.io/sample-project-metadata/tokens/Sentinel3880.webp",
+  "external_link": "",
+  "attributes": [],
+  "stats": {
+    "health": 100,
+    "strength": 100,
+    "defence": 100,
+    "vitality": 100
+  }
+}

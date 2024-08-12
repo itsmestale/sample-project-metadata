@@ -1,0 +1,15 @@
+{
+  "id": 156,
+  "type": "Jupiter",
+  "name": "Sentinel156",
+  "description": "",
+  "image": "https://immutable.github.io/sample-project-metadata/tokens/Sentinel156.webp",
+  "external_link": "",
+  "attributes": [],
+  "stats": {
+    "health": 100,
+    "strength": 100,
+    "defence": 100,
+    "vitality": 100
+  }
+}

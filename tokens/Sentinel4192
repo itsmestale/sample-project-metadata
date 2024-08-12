@@ -1,0 +1,15 @@
+{
+  "id": 4192,
+  "type": "Pluto",
+  "name": "Sentinel4192",
+  "description": "",
+  "image": "https://immutable.github.io/sample-project-metadata/tokens/Sentinel4192.webp",
+  "external_link": "",
+  "attributes": [],
+  "stats": {
+    "health": 100,
+    "strength": 100,
+    "defence": 100,
+    "vitality": 100
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9750,
+  "type": "Mercury",
+  "name": "Sentinel9750",
+  "description": "",
+  "image": "https://immutable.github.io/sample-project-metadata/tokens/Sentinel9750.webp",
+  "external_link": "",
+  "attributes": [],
+  "stats": {
+    "health": 100,
+    "strength": 100,
+    "defence": 100,
+    "vitality": 100
+  }
+}

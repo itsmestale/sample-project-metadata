@@ -1,0 +1,15 @@
+{
+  "id": 10046,
+  "type": "Earth",
+  "name": "Sentinel10046",
+  "description": "",
+  "image": "https://immutable.github.io/sample-project-metadata/tokens/Sentinel10046.webp",
+  "external_link": "",
+  "attributes": [],
+  "stats": {
+    "health": 100,
+    "strength": 100,
+    "defence": 100,
+    "vitality": 100
+  }
+}

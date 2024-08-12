@@ -1,0 +1,15 @@
+{
+  "id": 7214,
+  "type": "Neptune",
+  "name": "Sentinel7214",
+  "description": "",
+  "image": "https://immutable.github.io/sample-project-metadata/tokens/Sentinel7214.webp",
+  "external_link": "",
+  "attributes": [],
+  "stats": {
+    "health": 100,
+    "strength": 100,
+    "defence": 100,
+    "vitality": 100
+  }
+}

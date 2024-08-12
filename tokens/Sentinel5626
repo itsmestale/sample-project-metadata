@@ -1,0 +1,15 @@
+{
+  "id": 5626,
+  "type": "Saturn",
+  "name": "Sentinel5626",
+  "description": "",
+  "image": "https://immutable.github.io/sample-project-metadata/tokens/Sentinel5626.webp",
+  "external_link": "",
+  "attributes": [],
+  "stats": {
+    "health": 100,
+    "strength": 100,
+    "defence": 100,
+    "vitality": 100
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7348,
+  "type": "Uranus",
+  "name": "Sentinel7348",
+  "description": "",
+  "image": "https://immutable.github.io/sample-project-metadata/tokens/Sentinel7348.webp",
+  "external_link": "",
+  "attributes": [],
+  "stats": {
+    "health": 100,
+    "strength": 100,
+    "defence": 100,
+    "vitality": 100
+  }
+}

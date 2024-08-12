@@ -1,0 +1,15 @@
+{
+  "id": 9163,
+  "type": "Venus",
+  "name": "Sentinel9163",
+  "description": "",
+  "image": "https://immutable.github.io/sample-project-metadata/tokens/Sentinel9163.webp",
+  "external_link": "",
+  "attributes": [],
+  "stats": {
+    "health": 100,
+    "strength": 100,
+    "defence": 100,
+    "vitality": 100
+  }
+}
